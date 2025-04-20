@@ -26,8 +26,8 @@
 | Frontend                   | Backend                  | Tools & More        |
 |----------------------------|--------------------------|---------------------|
 | React · Vue · CSS · SCSS   | Node.js · Express        | Git · npm · Yarn    |
-| Tailwind · Material UI     | MongoDB · PostgreSQL     | Figma · VS Code     |
-| Framer Motion · Animate.css| RESTful APIs · GraphQL   | Linux · Docker      |
+| Tailwind · Material UI     | MongoDB · SQLlite        | Cursor · VS Code    |
+| Framer Motion · Animate.css| RESTful APIs · PHP       | Linux ·Jira ·XAMPP  |
 
 
 ## 🌐 Socials:
@@ -58,7 +58,7 @@
 ---
 
 > "Design is not just what it looks like and feels like. Design is how it works."  
-> — **Steve Jobs**
+>                                                               — **Steve Jobs**
 
 ---
 
